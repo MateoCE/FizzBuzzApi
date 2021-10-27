@@ -1,0 +1,60 @@
+2021-10-21 11:34:07.342 +02:00 [INF] Application started
+ 21-42-2021 DESKTOP-VDDOHF6 1    
+ 21-12-2021 DESKTOP-VDDOHF6 1    
+ 21-14-2021 DESKTOP-VDDOHF6 1    
+ 21-14-2021 DESKTOP-VDDOHF6 4    
+ 21-14-2021 DESKTOP-VDDOHF6 4    
+ 21-15-2021 DESKTOP-VDDOHF6 14    
+2021-10-21 12:18:02.304 +02:00 [INF] Application started
+2021-10-21 12:18:09.769 +02:00 [INF] Documento creado con exito
+2021-10-21 12:23:57.218 +02:00 [INF] Application started
+2021-10-21 12:26:01.569 +02:00 [INF] Application started
+2021-10-21 12:26:14.480 +02:00 [INF] Application started
+2021-10-21 12:27:44.627 +02:00 [INF] String creado con exito
+2021-10-21 12:27:44.627 +02:00 [INF] Documento creado con exito
+2021-10-21 12:31:29.817 +02:00 [INF] Application started
+2021-10-21 12:33:48.709 +02:00 [INF] Application started
+2021-10-21 12:34:54.469 +02:00 [INF] String creado con exito
+2021-10-21 12:34:54.469 +02:00 [INF] Documento listo para descargar
+2021-10-21 12:34:54.470 +02:00 [INF] Documento creado con exito
+2021-10-21 12:42:01.672 +02:00 [INF] Application started
+2021-10-21 12:42:05.278 +02:00 [INF] Application started
+2021-10-21 12:42:15.321 +02:00 [INF] Calculando fizz buzz apartir de 7
+2021-10-21 12:42:15.321 +02:00 [INF] String creado con exito
+2021-10-21 12:42:15.321 +02:00 [INF] Documento listo para descargar
+2021-10-21 12:42:15.322 +02:00 [INF] Documento creado con exito
+2021-10-21 12:43:02.419 +02:00 [INF] Application started
+2021-10-21 13:07:15.225 +02:00 [INF] Application started
+2021-10-21 13:07:30.408 +02:00 [INF] Calculando fizz buzz apartir de 87
+2021-10-21 13:07:30.408 +02:00 [INF] String creado con exito
+2021-10-21 13:07:30.408 +02:00 [INF] Documento listo para descargar
+2021-10-21 13:07:30.408 +02:00 [INF] Documento creado con exito
+2021-10-21 13:07:42.240 +02:00 [INF] Calculando fizz buzz apartir de 66
+2021-10-21 13:07:42.240 +02:00 [INF] String creado con exito
+2021-10-21 13:07:42.240 +02:00 [INF] Documento listo para descargar
+2021-10-21 13:07:42.240 +02:00 [INF] Documento creado con exito
+2021-10-25 13:09:04.174 +02:00 [INF] Application started
+2021-10-25 13:09:59.406 +02:00 [INF] Application started
+2021-10-25 13:10:00.004 +02:00 [INF] Documento creado con exito
+2021-10-25 13:10:12.362 +02:00 [INF] Application started
+2021-10-25 13:10:12.912 +02:00 [INF] Documento creado con exito
+2021-10-25 13:10:52.080 +02:00 [INF] Documento listo para descargar
+2021-10-25 13:10:52.081 +02:00 [INF] Documento creado con exito
+2021-10-25 13:11:01.658 +02:00 [INF] Documento listo para descargar
+2021-10-25 13:11:01.658 +02:00 [INF] Documento creado con exito
+2021-10-25 13:11:57.055 +02:00 [INF] Documento listo para descargar
+2021-10-25 13:11:57.056 +02:00 [INF] Documento creado con exito
+2021-10-25 13:12:10.662 +02:00 [INF] Documento listo para descargar
+2021-10-25 13:12:10.662 +02:00 [INF] Documento creado con exito
+2021-10-25 13:13:18.368 +02:00 [INF] Documento listo para descargar
+2021-10-25 13:13:18.368 +02:00 [INF] Documento creado con exito
+2021-10-25 13:14:34.300 +02:00 [INF] Application started
+2021-10-25 13:14:34.880 +02:00 [INF] Documento creado con exito
+2021-10-25 13:14:49.229 +02:00 [INF] Documento listo para descargar
+2021-10-25 13:14:49.229 +02:00 [INF] Documento creado con exito
+2021-10-25 13:22:37.294 +02:00 [INF] Application started
+2021-10-25 13:22:37.883 +02:00 [INF] Documento creado con exito
+2021-10-25 13:33:06.658 +02:00 [INF] Application started
+2021-10-25 13:33:07.265 +02:00 [INF] Documento creado con exito
+2021-10-25 13:33:08.595 +02:00 [INF] Documento listo para descargar
+2021-10-25 13:33:08.595 +02:00 [INF] Documento creado con exito
